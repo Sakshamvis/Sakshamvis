@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Saksham Vishwakarma</h1>
 <h3 align="center">A passionate data analyst from India</h3>
 
-- 🔭 I’m currently working on **career aspirations of Genz**
+- 🔭 I’m currently working on **Machine Failure Prediction**
 
-- 🌱 I’m currently learning **MLOps**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 📫 How to reach me **sakshamvis2@gmail.com**
 
