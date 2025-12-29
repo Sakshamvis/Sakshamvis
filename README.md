@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saksham Vishwakarma</h1>
 <h3 align="center">A passionate data scientist </h3>
 
-- 🔭 I’m currently working on **Machine Failure Prediction**
-
-- 🌱 I’m currently learning **Deep Learning**
+- 🔭 I’m currently working on **Automatic Number Plate**
 
 - 📫 How to reach me **sakshamvis2@gmail.com**
 
